@@ -1,0 +1,10 @@
+# Dataset and models
+data/
+models/
+*.h5
+*.keras
+
+# Environment and notebook noise
+venv/
+.ipynb_checkpoints/
+__pycache__/

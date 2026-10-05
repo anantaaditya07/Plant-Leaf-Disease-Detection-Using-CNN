@@ -1,0 +1,7 @@
+tensorflow
+opencv-python-headless
+numpy
+matplotlib
+scikit-learn
+seaborn
+jupyter
