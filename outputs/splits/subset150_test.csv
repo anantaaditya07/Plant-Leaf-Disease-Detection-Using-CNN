@@ -1,0 +1,856 @@
+path,label,y
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/a3ebcd97-c380-4a41-b8c0-493e5a74d0fd___FREC_Pwd.M 0387.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/53a1a1ee-09cc-4393-b255-6f808e2a4802___Com.G_TgS_FL 9850.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/7bf25c0a-6594-4777-9a67-49a6487bb203___FREC_Scab 2993.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 1842.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/da83ca78-f564-4ee3-88fe-405d266902bd___CREC_HLB 5149.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/d9db24c6-22b7-4786-8cb9-a1a805fd9fc5___FREC_C.Rust 3803.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/2e18248f-e251-44c0-b9a5-a198455f43ee___RS_LB 4858.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Grape___healthy/b07129a6-b8b0-4715-b76f-f89bd40c6770___Mt.N.V_HL 8994.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/e6248f91-e68e-4c74-88b0-e2836ca85d17___CREC_HLB 7603.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/26ddaf08-99c8-4776-9318-e71a614accfc___CREC_HLB 4390.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7532276c-6dcc-4c1b-9597-14a40d0414dd___RS_GLSp 4606.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/42338037-ae62-45f9-a040-ea9e900272a9___Com.G_SpM_FL 8464.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/a50f7480-3c37-4b00-8b5a-d42740523748___JR_FrgE.S 8748.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/f20ed4bc-ca80-440c-b254-95d0a1953da8___Crnl_L.Mold 8792.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/ef6e3d9d-502b-46c1-9f21-c32b54d2cb7a___Com.G_SpM_FL 9391.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/1bd14889-1157-4e89-854b-c4078917ae23___RS_NLB 0805.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/14a8011a-830d-4c51-a502-52e6873b0d7e___FREC_Pwd.M 4723.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/4ef8432c-0114-4c67-a5f0-a4935597dc68___JR_FrgE.S 8698.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/e10b0d3a-440b-46cd-a7f4-351196dcd1df___RS_GLSp 4323.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/a481749c-81a0-4d65-a41d-cc2008fa5e7a___FAM_B.Msls 4129.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/dc2775b9-e62e-4fe5-921f-e1cf5c4e2fe4___RS_Early.B 6942.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/2e01410a-83ea-45b1-a8de-00a798f01868___MD_Powd.M 9969.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/f6af5eb5-6338-48a2-8b23-c7143b7f4a62___FREC_C.Rust 0016.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/ba15e1af-3f3a-4eef-8be1-4f0a221444fd___RS_LB 2866.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/ee929bdd-22bd-4a39-be24-11aa93d586fa___JR_HL 9576.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/0d9c97af-4a3e-41f5-9c42-534898ea1688___RS_HL 4375.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/82cad357-576b-4e8f-9d46-8db17d592d4d___FREC_Pwd.M 0411.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/11f5b020-3dfd-400c-9819-7d229bc5f929___FREC_Scab 2945.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/fb70612e-974a-4bed-bfcb-fcf8038b51ce___GCREC_Bact.Sp 5627.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Peach___healthy/edebdf94-67a7-4d5e-8e0d-bc06494ad3d5___Rutg._HL 2464.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/58599ead-93e9-4ea8-a951-4ea380926f66___RS_GLSp 4649.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/b5631e3d-6e99-41f0-a36f-fe45e352278b___RS_HL 9835.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/47a9bf22-281f-49d6-a03a-97be4983fc68___RS_HL 0604.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/a0fa5049-909d-48be-a621-2b380dc3cd18___Rut._Bact.S 1124.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/e3e9c916-84cd-4180-9a11-8476f5e50956___FAM_L.Blight 3704.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Potato___healthy/14484ea5-9c34-427c-abe4-2743265aced0___RS_HL 4204.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/2353e9af-9267-4262-840e-1eb109fff56c___RS_Late.B 5135.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/bbb591c0-02ad-4a17-a1b5-6736ca9f9e1c___Com.G_TgS_FL 8372.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/442c3578-cee3-43bf-b636-b447a508a3f8___R.S_HL 8250 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/1fe7faa9-61a7-4152-9a85-a57d9486af0a___JR_FrgE.S 8599.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/b9cde1e2-71f8-46a2-9fa4-0bfc7d16815f___RS_LB 2610.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/abf20d6d-258d-4991-bc46-39c8b72e499e___FAM_B.Rot 3445.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/7891f5ee-6f1f-4957-a91c-4ad97b4eb725___FREC_Pwd.M 4720.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/957be08a-9b4f-4c28-9908-622fdb996f1c___RS_Erly.B 7591.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/c5132603-ce86-45c0-b9f9-d35c07f4057f___PSU_CG 2256.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/bcdd0062-f5b6-4b26-b2e4-fd855c2c65ec___Com.G_TgS_FL 1119.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Apple___healthy/c023b0a2-5c8b-448f-9735-2e11a7a389ec___RS_HL 6198.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/a7869065-f57e-42ba-aa3e-133fa45a7479___UF.GRC_BS_Lab Leaf 0827.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/c04104d9-3762-4a52-969e-31867bbf63ca___RS_HL 2377.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/8e6b80f3-8faa-4703-8d62-73669c62f19b___FAM_L.Blight 1484.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/a776bc5e-f859-4599-98aa-e195e5ef096b___JR_HL 8079.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/c1759ec6-d90c-468b-9cd6-243e40e5893f___RS_HL 4287.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/22cbfe56-85b9-4e13-8a75-faaddd496d26___JR_HL 4197.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/5755142f-0cba-45b7-a563-beb1bf6db374___RS_Early.B 8321.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/2992f778-be2a-49f0-8319-0a82c7422d0a___RS_NLB 3775.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/a02557d9-976b-4b21-8318-aecef263f90c___GHLB2 Leaf 8649.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/61da9830-ebfd-483a-88dd-a66fcff4c457___RS_Early.B 7817.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Grape___healthy/57540d89-7300-46fa-bd28-1aa3733e0757___Mt.N.V_HL 9039.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/71a0bbf6-fde6-4545-a974-de83dbd7adcd___UMD_Powd.M 0282.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Apple___healthy/d7cc096f-4900-44b4-a85e-216386a73773___RS_HL 5774.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/c915957c-39df-4299-8061-f1f94293529a___FREC_C.Rust 3660.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/9a9a3476-f397-4892-82ab-24638ce03b01___Com.G_SpM_FL 9435.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Grape___healthy/2dd116dc-661a-45dd-9c22-8729914ac0dd___Mt.N.V_HL 6047.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/7d5b8ab6-0280-4b43-9748-21d803810857___JR_Sept.L.S 2560.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/2e14fe88-6f4a-4765-9255-7b05d75db72a___Com.G_TgS_FL 9742.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/6190f918-0568-4de1-b7d9-fa30cce541f6___MD_Powd.M 0407.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/2a1fa2a0-b6ab-4c9b-984f-ea4108087568___Com.G_TgS_FL 8225.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/92769e5a-979c-427c-8233-e0cb00fb5e9a___UMD_Powd.M 0413.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/2d9352d7-2509-40a1-be35-01404448266c___RS_HL 9805.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/03132cd9-1649-4de0-aa41-de6eb60d4878___FREC_Pwd.M 0372.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/5706e1e6-aca6-4f67-907b-85268d86c39d___Rut._Bact.S 0811.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/9a190630-f11a-4e5b-9495-3c4535bb4144___FREC_Pwd.M 0367.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/8c73d17b-4821-4e52-9627-3914f7c89bce___JR_Sept.L.S 8481.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Grape___healthy/1725a647-0866-45be-bd9f-e5add660c340___Mt.N.V_HL 9083.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/dbc0dc71-c477-4d79-9c13-479bbbe783c8___RS_NLB 3931 copy.jpg,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/80a81205-f5b3-477b-b3a1-3982a8ff2435___FAM_L.Blight 0813.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Peach___healthy/68df2ec0-0330-4054-b209-8e50d71d88a2___Rutg._HL 3699.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Apple___healthy/86bbe500-5e1b-4212-9c9d-eb324af1236b___RS_HL 7413.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/da1c2dba-b75e-4052-bf97-16e66fea830a___Mary_HL 6320.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/c60b9b66-c955-4c35-bf7b-0c9b429b3477___JR_FrgE.S 8693.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/01b32f27-2b9b-4961-805b-8066bf4d90f1___PSU_CG 2417.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/8c12a342-d879-400f-975f-22f5ef3f32d2___RS_L.Scorch 1017.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/ff7160f9-f8d7-4576-82b8-009bf1b63b3b___RS_LB 4974.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/2f1e68c0-c059-46fd-bbf3-f160817abdc3___FREC_Scab 3535.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Peach___healthy/87e54240-2c5b-4145-90fc-0ba8aca6f4b9___Rutg._HL 3720.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 1992.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Peach___healthy/95f38d4e-5e8d-4b72-ac83-bd7e794a3093___Rutg._HL 2498.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/ed78d0eb-66a2-4e3c-833e-c8b094bbd322___R.S_HL 5503 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/1e2149c8-f9ed-49b2-a8c2-2e8b2046d0f7___JR_FrgE.S 2965.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/9152d7df-6394-4456-971b-551a87a15028___UF.GRC_YLCV_Lab 01903.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/f14f54ba-3706-4f6e-8152-01226e55c86e___RS_LB 4237.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/3a5a7bd1-55df-4afd-a9d5-0e93fd42be27___UF.GRC_YLCV_Lab 01324.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/8c7b818d-de11-4989-8991-48e4234e2ab4___GHLB2 Leaf 116.2.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/9494b2e6-4184-4e8a-ba47-6a1b19bee9bf___FAM_B.Msls 4352.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/82557506-a1bd-48eb-af05-af9271673fd2___FAM_B.Rot 3480.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/9a3a36e0-b0eb-4844-84f5-db08e2d9adef___PSU_CG 2300.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/18e3c122-617d-4eea-abe5-81e910e58a3c___JR_HL 9830.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/7a587578-6d36-4265-b1aa-dabbe9a2826e___R.S_HL 8247 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/33cd99f1-1f8a-497b-b4fc-60ff78af4b8a___RS_Erly.B 8378.JPG,Tomato___Early_blight,29
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/cafa778c-9b8b-45e7-8ffe-bc6fb3eec439___NREC_B.Spot 1923.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/d2ca1cb3-50b5-4861-85d8-a7bdae78265d___JR_FrgE.S 2995.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/bc3a2748-382a-4eff-99cb-d437b5cf8105___Crnl_L.Mold 6934.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/8118be5a-94c0-4ca9-ae78-ad7a0ccbdc8a___RS_L.Scorch 1434.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/b0bdc303-ae9c-4f4f-842e-f44affb77993___RS_L.Scorch 0884.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/682d83e2-0db6-48fa-87dd-c7c247aabfb0___UMD_Powd.M 9942.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/e16c58ee-a3e8-4586-ae53-4dd47b86be56___FAM_B.Rot 0756.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/2e75c3a9-406e-4afa-a3f5-d9a686776539___Rutg._Bact.S 2217.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/3d42d770-69c1-421e-ae00-56f8d0bd500f___Matt.S_CG 7414.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Apple___healthy/e323a987-eb04-44a2-aaa0-0d85518bb3dd___RS_HL 7668.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Grape___healthy/0cfdea92-260f-42b2-9db9-c31fee6ec567___Mt.N.V_HL 6119.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/045e9a8d-bed0-4700-8d27-7f8d0735223e___GCREC_Bact.Sp 3848.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/34ed1bf6-87eb-49dd-bc0b-fd9d0bd3dd0c___RS_GLSp 4378 copy.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/ed4e7959-4be3-4897-915d-4031532fb056___R.S_HL 8259 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/e819b35d-4042-4bd6-bcf9-aa4749a7cfbb___UMD_Powd.M 0412.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/f0f54bd6-551d-4dbc-b11d-c8a9fd6a03ae___RS_HL 2556.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/67d9c882-7661-4315-b9ca-d1f32e91205a___Com.G_TgS_FL 8193.JPG,Tomato___Target_Spot,34
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/174172a7-b8c3-4afc-aa95-637c08472656___JR_HL 7923.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/335ad098-9ff5-46b1-920c-b4f6e8559d2b___UF.GRC_YLCV_Lab 02791.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/d762adcf-24f4-4a71-956b-0b9dde15c0e7___RS_HL 2590.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/de341ebf-f335-4120-be2e-2640de5bde93___FREC_Scab 3375.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/5fa21fbf-774d-48ec-916d-c1d7b8c11c82___RS_LB 4795.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/df721edd-686e-4bb8-a05b-e8c67743c8ca___RS_Erly.B 8265.JPG,Tomato___Early_blight,29
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/fa803f29-9142-437d-9592-a205349ac589___JR_B.Spot 3123.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/7e30ae4f-05e2-4806-ad63-c86fb601d445___PSU_CG 2412.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/edba6e66-629b-4988-8921-9a4e87701a54___JR_Sept.L.S 2464.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/436b24e0-651a-4e5c-81a2-a1ad5f0157c5___FAM_L.Blight 3728.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/f217f3ba-56fa-4f97-bf9a-07697e08e845___RS_Early.B 9161.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/7db0dde8-3597-4a71-8fc1-cc6bc1dd89c4___PSU_CG 2196.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/79e57aaf-f825-4818-9594-621327134e0b___FREC_C.Rust 4219.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/baa34f65-7a7a-4308-ad86-4fe8f0da288d___FREC_Scab 3115.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/4849de96-2e26-4c8d-8944-bd9e8edee5d8___RS_Early.B 9196.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/2532b730-c048-4fa3-b9ff-e8ae6e456673___CREC_HLB 7409.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/11cb9688-7e57-4e92-a7ae-dfd13d327429___RS_L.Scorch 1549.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2023.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/25aa59f8-7755-4414-9d98-4a5140bf3580___UMD_Powd.M 0196.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/1d4dee76-8af5-4bce-ba44-ef87ffd664de___FREC_C.Rust 3628.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/6cace5f6-3589-4fb9-bb64-bee6872b8467___UF.GRC_BS_Lab Leaf 0299.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/416458ca-7db6-4383-ae0b-21ae2860af1b___RS_HL 0535.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/23b44f6d-0a70-4587-85ac-534ca483a49e___Mary_HL 9296.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/ed6f80a2-c69f-4d33-ad3d-ef2186aa1db1___RS_HL 9669.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2580.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/29812737-6c99-4dbf-b36e-799826b08fcb___RS_HL 4589.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/9ddcc364-0681-4b76-b61b-b1f4399fd049___MD_Powd.M 0915.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/352d0a20-cefd-4829-87d3-aefc65f46901___RS_L.Scorch 1389.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/6e8fac68-5902-4a78-a5c1-05c1c9dd006f___PSU_CG 2343.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/d06e33fb-58bf-440f-9dbc-a1ceec9abaea___GH_HL Leaf 383.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/332c4c9b-0be0-4305-90d8-bf2db0777483___UF.Citrus_HLB_Lab 9644.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/da79f51f-3fc1-4238-9270-dd71c44bfdc6___CREC_HLB 5235.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/c363173e-e72f-4aeb-937b-29f60598736d___JR_Sept.L.S 8563.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/71da69d8-7849-4a0e-be81-e94ba8b9379a___RS_HL 4995.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/30c135e6-4806-4b6f-8e2f-1474725795fb___FAM_B.Msls 4275.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/3e19d2c7-9d27-4898-a360-a8d0295286d9___RS_HL 2498.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/6685d4bb-ddc5-40b3-b7cf-e4b71a713e31___Crnl_L.Mold 7019.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/ce28178f-e53a-4555-90b4-d7156fd8333a___RS_GLSp 9307.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/2c135c30-428c-4ca3-a86f-5aa1b8e32aa9___FAM_L.Blight 1573.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/7570daf6-28e6-4aee-8583-209160f0cd5e___JR_HL 4139.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/bb24cdaf-a001-43b3-b8b9-cba6dd44faf3___YLCV_GCREC 2180.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Potato___healthy/b61b9d33-59ea-41b0-a554-c382eb6128c5___RS_HL 1919.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/6a1488f5-0b58-4f02-9a61-267b5eb38ed3___Rutg._Bact.S 1367.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/d319e1ba-2c4d-4c50-a9b3-f0e865da72fe___FAM_B.Msls 0880.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Grape___healthy/a6868cab-63b1-4c6e-978a-136cef8181ab___Mt.N.V_HL 6109.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/416a0d32-c895-4412-ad02-9785fbcd5192___Com.G_SpM_FL 1487.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/d4cd2357-1142-4f0c-8c44-201241a27573___RS_Early.B 9146.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/625e4181-9290-45e1-986c-1c168d912a6d___Crnl_L.Mold 9017.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/4378430b-d4ac-4302-8ceb-24ac43116e8d___FAM_L.Blight 1409.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/fc1ab935-21b3-42e7-a870-02fd71c5d845___RS_Early.B 6894.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/13dbd7f5-c73e-475d-8ae5-9e91d7887d37___UF.GRC_YLCV_Lab 03075.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Apple___healthy/7a5ad785-c05e-49bd-b1e0-4d9405bedfb5___RS_HL 7804.JPG,Apple___healthy,3
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/9d5afa2f-31ed-4f5b-aba4-f1f9725f97ef___JR_HL 7655.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/07871e60-96ce-45fb-b531-90df862bb29f___Mary_HL 9207.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/bdc582e0-41b2-4c7e-9c39-58fd053c115b___RS_HL 5496.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/d42b8779-0f87-4285-b968-d53e7f2f1287___UMD_Powd.M 0128.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/763335af-2beb-4331-b2e5-3f61a4b0b914___PSU_CG 2365.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/9e6ca942-064a-49ec-b7f9-8a1e25b5c0fe___RS_GLSp 4435.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/521b781a-56f3-4cf7-a841-9ecd82ecd3d7___FAM_L.Blight 1407.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2160.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/f12a4cdc-3c47-4f22-9f03-188015dedb07___Crnl_L.Mold 8913.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/124e5b7b-dc6a-4b5a-8f4e-b22ed738b5fc___JR_HL 9455.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/0e8f7672-1e36-4f1a-a52d-5cf9a934ef70___RS_HL 2799.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/7308b9c4-3408-48ff-bd4a-b07350421e60___FREC_Scab 3508.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/fc296f63-8cb3-42f1-a9c1-f6ed8e49777c___RS_Erly.B 6400.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/dae6e7a6-1616-4dcc-93d3-73bb3b406165___FAM_B.Rot 0510.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/b60702b4-a7dd-4201-bfcc-4a13c7dcc44f___RS_Erly.B 7657.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/bc21154c-09a0-4428-9afe-be7ea00739d8___GHLB2 Leaf 8656.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/48749ece-911d-440f-873d-475e58132969___RS_Erly.B 7479.JPG,Tomato___Early_blight,29
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/94a7acd4-cd80-4d84-a837-0702cb946d52___JR_HL 8795.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/f58f21bc-0296-4457-b97c-bc35e1a66924___Com.G_TgS_FL 8018.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/68cb6347-4fb9-42e8-8620-837a3c9d44b3___Com.G_TgS_FL 0751.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/d2d20c95-1a0d-49cf-aa4d-0148c78354e2___RS_HL 3042.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/4bd2859a-1568-4765-bb20-17dd0de0e0ef___RS_HL 2584.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/f770ff71-9ac5-46ef-8b66-65ba246bb952___JR_FrgE.S 8702.JPG,Apple___Black_rot,1
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/86ef217d-b405-48b5-9cb0-cfaf47f61b15___NREC_B.Spot 9088.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Grape___healthy/25014ae7-b016-430a-b6a6-aa77dc3c4a8a___Mt.N.V_HL 8986.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/02caa98d-1c74-43b3-b3ee-e8492998f82a___RS_HL 2090.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/a17e91e2-3daf-4f30-8976-9ea23b6bdf94___RS_HL 2053.JPG,Strawberry___healthy,27
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/b766708d-5d33-4034-afc8-fbf9ffece733___JR_B.Spot 9037.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/e0d2d9f6-b29e-4cd8-8c2b-7d462271ceb3___RS_HL 9787.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/e421fcb0-be23-4ff8-a5f0-0ee7110160e5___Com.G_SpM_FL 1680.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/5eefbe91-fb95-4d86-8954-bea6b3637a9d___RS_Late.B 6444.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/39f11cfa-d3a8-4845-9cc8-8ffa2f707d66___RS_Late.B 6119.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/c6e1c2ad-78ae-4241-b86c-39d056318737___Crnl_L.Mold 6736.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/e1af66f2-f7a8-4ae8-8f79-f9b8e8508d58___Crnl_L.Mold 8697.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/403c1b73-5eef-412c-9913-39909a5cedaf___R.S_HL 0636 copy 2.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/7673ac2a-707f-4575-a11d-afe44817bfd4___RS_LB 4342.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/c78c2bb3-c1e9-4ca9-a62f-79663186b3dc___UF.Citrus_HLB_Lab 0169.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/913fb01a-40e2-454b-bc87-aba0669633cf___FAM_B.Msls 3910.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/6a4ce1e3-a768-4f6e-96cf-3590df10fdc5___GCREC_Bact.Sp 3608.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Grape___healthy/3d4723f3-7abf-4f74-adf2-7313e64c8c09___Mt.N.V_HL 6162.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/0d56d708-22c4-477a-bd29-7c5776dbcf25___FAM_B.Msls 4457.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/ab4a4903-8395-481b-8f97-ee6837f5c094___GHLB_PS Leaf 30 Day 12.jpg,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/4a2676a7-dedd-40c6-bd50-9012129ec708___RS_L.Scorch 1172.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/f1f33667-e880-4980-92ba-2401f2954ba8___RS_HL 1690.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/543187bc-cb00-4093-8d3c-bd23b52cda3c___Rut._Bact.S 1140.JPG,Peach___Bacterial_spot,16
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/036a4558-093c-4317-a9df-742fdfef335a___JR_HL 8310.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/584a0a63-7d44-469c-a0b0-f4d0aaa4c82f___RS_GLSp 4445.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/6cee02dc-372c-4a96-a68e-900cbdc00d12___JR_HL 8736.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/81c36f56-3d52-4f61-b821-81314efe0e14___UF.Citrus_HLB_Lab 0212.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/1132bee0-fe6b-41a9-9583-7b959c2ca25f___RS_Early.B 7482.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Peach___healthy/df27e876-1152-4b9f-869b-f88e62a53ad2___Rutg._HL 3653.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Potato___healthy/b8b7b98a-eb1a-4213-9b0b-aeef4df427e8___RS_HL 1858.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/51cc008a-87e2-4a1f-8656-afa1a9c20d0d___FAM_L.Blight 1659.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2499.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/db1dd4d2-8424-4b8a-a160-8491b534e6dc___RS_HL 4650.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/86e56df1-3f7d-4e01-a161-8954cb74c7ce___RS_HL 5293.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/f97d12f1-f757-4b67-b19c-15c303c215c0___Keller.St_CG 1923.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/4de6bcf9-a5d6-4cca-b412-c9cb1fabf34f___R.S_HL 8284 copy 2.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/a7394213-135c-4be2-a53a-e9c20c1a1ee5___CREC_HLB 7892.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/0abb0bf0-8a1e-4699-80ee-c434385d9514___Com.G_TgS_FL 8115.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/5d765559-4d4d-4afd-8b17-73abc109cb13___Com.G_SpM_FL 8800.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/dca7fa13-14bd-4d24-abbf-1fe2e02eac7e___GH_HL Leaf 295.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/0f025626-b89a-47da-9726-7526051b5bb9___Mary_HL 9344.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 1997.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/2c84929f-1261-4370-aebe-237510966df7___FAM_B.Msls 1144.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/1ea5a715-7822-4939-b059-3f7dcaff579f___FAM_B.Msls 3971.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/6d6450e4-94a0-42f9-ac5c-ba88b87dfbe5___YLCV_GCREC 1927.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/47299b1d-0dbc-4ecd-80c3-3c0561ad48d3___JR_HL 8889.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/980b6d5a-da0a-4904-82f4-19987a7f635c___RS_GLSp 4559.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/32d4782a-b7df-40f5-95d0-2a6173627193___UF.GRC_YLCV_Lab 03281.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/9691ae31-5b5d-4160-ae00-77358aff80ee___JR_FrgE.S 8719.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/28b1e241-4234-4710-893c-b75c6dec6fa7___Mary_HL 9299.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Grape___healthy/11a9b188-754b-45b5-a498-590bfdeb2643___Mt.N.V_HL 6159.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Apple___healthy/f749db98-b26d-40d0-af8e-af6740848dca___RS_HL 7895.JPG,Apple___healthy,3
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/5e23e898-736e-4b4a-adc8-4a6439e7d491___JR_HL 7801.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/89ad1a3c-db3c-4d75-9c92-64cea1433f89___RS_LB 2820.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/79862cb8-224c-4e96-b1fa-83662a7cfb1b___Mary_HL 6316.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/63a29431-0e93-4e5d-b28d-3956edd10d01___FREC_Scab 3197.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/449f6c5b-3286-4201-905f-004f01dfc0e3___RS_HL 4871.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/99d4a7a8-d570-47dd-99be-9c6010722da4___Rutg._Bact.S 1477.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Peach___healthy/f9abf8f6-7783-473c-81d2-a84dba013d3e___Rutg._HL 2500.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/d0837299-34cf-476b-af90-68d4ed50a4a3___FAM_B.Rot 5021.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/2d0ef8c2-6036-45d2-b53d-285bc62dc6d3___RS_HL 6823.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/656c0edc-3b1f-4d8b-adce-6264b69f7aa8___RS_GLSp 4492.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Potato___healthy/a02b6205-b40a-4178-8b34-3494f84b9d1f___RS_HL 1958.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/b83383d6-f476-412f-b8b8-6965a795ef7b___FREC_C.Rust 3541.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/cba918f3-a1db-44ae-9d04-cd828f376f12___FAM_L.Blight 1665.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/ea9ec83c-03f8-4ccf-8f0d-e05b667875f1___UF.GRC_YLCV_Lab 03150.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/68a57535-547d-4287-89cc-6d8acc265372___FREC_Scab 3351.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/797e2dca-1be6-4ccd-941c-204e4ea54a12___UF.Citrus_HLB_Lab 9784.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/a899313e-320c-4843-a7bc-ca7eb2a81883___JR_FrgE.S 2992.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/c56b4a9c-dd6f-48ac-ac94-c4fbf6194031___GH_HL Leaf 364.1.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/77de0ada-d1ad-4883-ab1f-99e88a32f81f___RS_HL 0769.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 1926.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/9aa6a76b-0385-4574-88a0-50f22b46fa3e___R.S_HL 8296 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Apple___healthy/34a96778-25fe-4e97-910e-56b39fc2bdd6___RS_HL 6263.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/6d1f842b-d10d-4e78-a277-e8e909c38346___RS_L.Scorch 9950.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/e69cada6-46f9-4da4-a406-5b0d43ba7936___YLCV_GCREC 2511.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/86944800-4984-44f9-9c72-53fcb7324a3b___RS_LB 4015.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/59dbd132-6e6c-4127-a218-b7602cbee670___RS_Erly.B 9449.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/4dda7e89-6d44-4c5d-bec2-ba5f3b6818c1___Mary_HL 9181.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/810b4077-aceb-4dbc-afad-9abf732ea00b___JR_HL 9457.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/0fe7d644-dc8b-49f7-9a41-33ec029f6437___Com.G_TgS_FL 8274.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/ae6d6958-016c-4a24-8963-558bcf7db294___R.S_HL 5509 copy 2.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/f3d26b9f-7999-4b20-8503-0e1d3a878742___PSU_CG 2304.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/a9fcf4e5-73f1-4c51-a3ef-a5800cc6df62___R.S_HL 8025 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Potato___healthy/5d505af8-3f73-4781-980c-a4a696a04550___RS_HL 1934.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/71392ad4-37de-4edf-8ac9-a4e01f1a6eaa___Matt.S_CG 6812.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/7a911998-4bc2-4949-93a1-050d7cedca01___Com.G_TgS_FL 0768.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/f56f07b9-9f3a-4c80-a4f8-daf49f479db2___RS_Early.B 8741.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/67b71801-02de-4909-ba7a-e60b0855ccfc___FAM_B.Msls 3868.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Grape___healthy/aca0406e-c5ec-421e-a265-3d88d13b3bef___Mt.N.V_HL 6182.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/99efeabc-dafd-45ca-8111-91ec6aae3a7b___FREC_C.Rust 4089.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Peach___healthy/1a4a3dc2-c4c7-493d-9fac-d2f2ed8a6e9b___Rutg._HL 3506.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/f2808c4d-e64c-4bbf-a1be-86f97247f2e7___JR_HL 9564.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/ad2d5a6b-8d89-4797-b9a9-60ccc8d9e193___RS_HL 7242.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/fc12aaf6-c133-46fb-b08a-bf7dd5d619ac___FAM_B.Rot 0462.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Apple___healthy/211f5e77-fdc9-4d96-9395-bb3647678c43___RS_HL 7364.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/67d62cc2-ac5e-4ad7-91a0-c097163df653___PSU_CG 2048.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/25724a0e-ed32-47d0-b5bc-70d4c5d0ac9a___FAM_B.Rot 0593.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Potato___healthy/3a00204c-5e53-4e5d-95a6-f8819031744e___RS_HL 5420.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2376.JPG,Corn_(maize)___Common_rust_,8
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/db2c9432-9f29-4867-a07f-b6e78aa946a4___JR_B.Spot 3138.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/9ebfbe4c-8615-4aa4-8288-3855e9555fb5___Com.G_SpM_FL 9588.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Potato___healthy/f30983c0-6e20-43cc-8672-4622ca34c830___RS_HL 1949.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/eedfe83e-940c-47bb-b0a6-cd82a59d0c5b___Com.G_SpM_FL 8817.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/6c9cd159-1f95-4459-a308-fde523b58c89___Matt.S_CG 7559.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/8895b194-2dc6-4ed5-8155-1e483d4f93f3___RS_GLSp 4644.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/5719c279-f11c-49ff-8937-a0e5ce7ed537___JR_HL 9880 copy.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Grape___healthy/120e3a97-f879-4047-8811-077c723cb069___Mt.N.V_HL 9058.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/a8bea1f3-eff7-4819-b0a8-72259d864518___Mary_HL 6376.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/33e336e9-fcd0-4e9c-a0c1-8a313c3ef1f3___UF.GRC_BS_Lab Leaf 0367.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/67c6930f-deba-4f88-81ac-969155f5765b___R.S_HL 8079 copy 2.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/b5b976f0-c08f-49c9-9993-c50c4dfbffc9___RS_HL 5040.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/004a6efb-2127-499c-aec6-2c138004ce5b___RS_HL 3397.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/cb336d1a-4469-44ee-ab2e-a384f6aad761___Rutg._Bact.S 1723.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/0b4a52e3-e15e-4117-b2e8-7cdb5dca3ce9___FREC_Scab 3137.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/5c7bf62d-3c64-4738-8378-d530b9f73cc1___RS_HL 4517.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/98d0dbe1-2532-419e-9cc4-1ef0da68fb0e___RS_GLSp 4452.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/a1dd3cdf-0ff5-49f6-b66e-9b3632a07019___RS_Early.B 7833.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/cf7d0e37-26c6-4b6a-a44b-d97a4a7f1b68___FAM_L.Blight 1706.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/363c19ce-62c4-48ae-8dd7-4253ad7daa65___Mary_HL 9291.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/90355db8-e997-4ab6-a1a3-14aca5e55395___FREC_C.Rust 9907.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/aa104920-ea5d-497b-a138-39bd042eccdc___Mary_HL 6278.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Grape___healthy/7042c2f6-b859-41ec-8ee0-b058f9e9e906___Mt.N.V_HL 6164.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/f13cda90-ae86-4aff-b8f5-d561c2c4c54c___Rutg._Bact.S 1421.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/9266e5f5-ab7a-461a-836d-fa03f1669a6a___RS_HL 9810.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/8f9970b4-19ad-45cd-8544-1a01360c62cf___FAM_B.Msls 1827.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/58fe8e64-2302-41da-8ca9-25ec0e943fdb___FAM_L.Blight 3653.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/a29fc501-dbc0-4d7c-b298-1a817192a396___RS_HL 0539.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Grape___healthy/5cb0aff8-6889-46d4-b283-da8f77761523___Mt.N.V_HL 8909.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/f0eb00dc-22da-4c8b-b86d-72157ea9e71d___RS_Erly.B 9610.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/fc477749-2fe6-48a5-9393-5eedeb7cedc3___FREC_C.Rust 3826.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/5e12ba62-8d95-4348-9278-6ec81b8b7eea___FAM_B.Rot 3186.JPG,Grape___Black_rot,11
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/f60cdc34-0ab9-4551-ac24-e9e0d5affd6a___JR_HL 7931.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/0cff7307-2103-4aaf-b2af-899221b15e34___Matt.S_CG 7756.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Potato___healthy/d340704d-cc00-4068-bb8a-ae70840b7bfa___RS_HL 1773.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/a39baf45-f09c-4b1f-a382-25c8f61f49c0___FREC_C.Rust 4123.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/3f4788c4-a2fe-4c9f-907c-5d5dd4f5395c___Matt.S_CG 1143.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/366e33bd-7e1a-45b5-a473-374636bbcf02___GHLB2 Leaf 160.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/7d017e99-20e2-4440-ab0b-3ad9ed320934___FAM_B.Rot 0688.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/ea5bee00-19ac-4b88-a52c-751bb287c087___FREC_Pwd.M 0580.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Peach___healthy/4ac10c27-25ba-4612-9351-13491106abf4___Rutg._HL 3741.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/ed3b5428-87b4-4be5-8b06-ad2de47b2dab___UMD_Powd.M 0057.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/ab49fd7d-9b48-436a-8a5a-37454bb14811___YLCV_GCREC 2567.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/0c22dfef-7413-4f46-b949-903d238678a3___FREC_Pwd.M 5094.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/0a14783a-838a-4d4f-a671-ff98011714c6___FREC_Scab 3288.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/b7da3499-648a-482b-8f9c-be7bb48bb53b___FAM_B.Rot 0561.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/a93e7941-b915-4e05-a3b8-7dd4176e6eaa___GHLB2 Leaf 85.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/01e591c9-e3e7-4edc-8211-13081f4d5e7a___RS_HL 1979.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/ce871ad5-f65e-4906-9512-a0998da7fdc8___Mary_HL 9213.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/3d16ce8b-81ef-4be2-aec6-d1deab7282b4___RS_HL 0089.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/935ede4e-0070-4151-9974-7882249a700b___Rut._Bact.S 1153.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/deafaefa-dc4f-40ab-b26a-f462d334e8b2___GCREC_Bact.Sp 3300.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/a9f431ae-3982-48bb-a6c6-82194562dcb0___FAM_L.Blight 3692.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/328cd6a7-46a5-4beb-8b62-b68db500a830___RS_HL 1908.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Peach___healthy/52545cfe-0344-4f21-b24f-834263a7525b___Rutg._HL 2456.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Apple___healthy/62d3964c-3cc9-495c-94d5-0558f5fe3063___RS_HL 7607.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/74776ea0-972b-4ea6-89cf-45d2071102c9___FAM_L.Blight 4504.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/56249703-8ef7-4d93-a3ef-45fbd5abf29c___RS_L.Scorch 1296.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Grape___healthy/6ca3ca86-ac9f-47a2-8cb7-be4956ffe7dc___Mt.N.V_HL 6022.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/33c1f00b-8acb-425a-92be-f6ee6e6fdb10___Com.G_TgS_FL 8158.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/3a97c74a-3d6e-4cd9-86e0-10a8e716e7b5___RS_Early.B 8422.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/5fe42ce9-0173-49ba-9cd5-9c4fb3f24883___PSU_CG 2351.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Grape___healthy/244804b5-05e2-4372-a376-36a0655aff41___Mt.N.V_HL 6121.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/5f807d2d-f7bc-4c9d-b8bc-74549ddfd47c___FREC_Pwd.M 0582.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/50a1376a-3a56-40b5-9f95-614689509505___GH_HL Leaf 413.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/4288e46f-623e-4585-9740-1e916d1a13a7___FREC_Pwd.M 4734.JPG,Cherry_(including_sour)___Powdery_mildew,5
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/5220d08b-9ead-4c12-9a25-7044d1669d0d___JR_B.Spot 3208.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Peach___healthy/26f351fc-7166-4eea-971e-1bca2c99cb80___Rutg._HL 2411.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Apple___healthy/880ed927-54cb-43f7-8d9d-4e2705cc8472___RS_HL 7488.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/928e5ee5-6568-4e73-afbf-8251794d33a8___FREC_C.Rust 3747.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/c8132bc8-730e-4920-a9f2-a0d05985d3dd___RS_NLB 0801.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/19f6a0ac-b426-4297-a021-d4847c35e1eb___RS_L.Scorch 0007.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/b9a39437-94b7-41e3-b309-080e9a93d5ca___RS_GLSp 4440.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/3a4f2681-0ad1-4ad1-a05b-005592733970___FAM_B.Msls 1037.JPG,Grape___Esca_(Black_Measles),12
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/334c47a8-60bc-4021-a186-6f0d73624dd4___JR_HL 8354.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/71aabb3f-c8a6-4e20-8dc7-7f00202f931e___FAM_B.Msls 0829.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/09e4cb6f-2897-477a-adce-f2c6204840e5___RS_HL 2303.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Apple___healthy/27d5e1e8-d30f-4514-bafe-f600ad03a871___RS_HL 7648.JPG,Apple___healthy,3
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/65b444c4-e03b-49e2-8ea6-ee3135be368e___JR_HL 8088.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/9c75d1f3-9a11-4b76-90cc-ade68ea91ce9___RS_NLB 0824 copy 2.jpg,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/00a3fc0e-64cc-4e35-ac2f-aef04fda9b22___Mary_HL 9177.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/54af5ffb-2c20-41e4-895c-faa241fae089___RS_L.Scorch 1413.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/8e41531c-42e8-4a0d-b453-7aae50fdfe94___GCREC_Bact.Sp 3552.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/f3bbf9c8-06fd-4f1e-930a-f576c0fbc06d___GCREC_Bact.Sp 3717.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/04bbcc55-93d3-4a19-9137-8de036a8a4db___RS_LB 2647.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/42001b08-2532-4a00-bf5e-2e0a1a39fa5b___Rutg._Bact.S 1136.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Apple___healthy/a8af4c4f-6022-4e82-99bf-b0044e1bd3c3___RS_HL 8003.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Grape___healthy/4e38b7a3-fc3e-4e9d-baa0-89f98aa10f99___Mt.N.V_HL 8910.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/0e1fda76-d958-490f-9fcb-21e86c99dbe6___UF.GRC_YLCV_Lab 02200.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/cbb4bd24-9572-4235-a9c1-e6b73118b7d5___JR_HL 4120.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/e66666f1-bad7-4ceb-8142-389b841be362___JR_FrgE.S 3008.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/a38df468-bb4a-4bb3-9ee9-a2dffae718e9___RS_Early.B 8690.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Grape___healthy/1fdf78d5-6036-4c48-b395-d41868e89f46___Mt.N.V_HL 9102.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/83173f0c-d3d6-49e0-ab94-7b2c55c70c06___RS_HL 2268.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/2b349e9d-0131-444a-acda-9b4154073cb5___RS_HL 4507.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/c3799da0-3ce3-4e75-9fdb-ceddfa42daad___Keller.St_CG 1781.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/20ef08f2-96ae-4148-942c-3d7708cd94d8___FREC_C.Rust 9830.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/8bd48e29-a53a-49ea-ab53-4a1acc948e89___RS_HL 5500.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/8db1878c-df56-44dc-a7f1-123432ef58d2___RS_L.Scorch 1437.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Apple___healthy/cd2bbe2b-8b63-44ea-a259-59d15dcf545d___RS_HL 8126.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/af44d1ff-8fae-49a0-ad5a-2b08204e397c___RS_NLB 3722.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/458d2f09-f646-42e6-ac1f-0aa5e123c127___FAM_B.Rot 0583.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/201186ce-cec5-47ef-9f88-bd8c4abab2c8___RS_LB 2813.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/4c640c66-bb10-4f7c-ae15-6be2b885c6d2___RS_NLB 4006.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/095db5eb-0b4e-4344-b3e9-f3f37a97ac24___FREC_Pwd.M 0421.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/b6b5c469-9b5a-4b91-ac32-c11f1a9fc8df___Matt.S_CG 2503.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/afa9db47-da6a-4914-b218-5612baf34d87___RS_NLB 3501.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Grape___healthy/fefb8922-dcb4-4dbf-8777-237ad9a99c40___Mt.N.V_HL 6085.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/926fc452-91e5-4683-89bb-0256103e15e1___FAM_B.Rot 0635.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/58442d72-5560-4b2d-8e3e-7b8121e6fecb___CREC_HLB 4356.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/cba3da7a-cc84-46bc-9df6-e249660653a4___Com.G_SpM_FL 1732.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/2b50c7a7-e22e-4103-9e23-909377ab00e3___RS_HL 0193.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/a91df7a3-b064-4edb-8556-686598d0bdea___RS_HL 0317.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/09b43094-79ca-4404-aafc-4c93eac76e06___RS_HL 4347.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/1ae5cf7c-f03a-4591-93e9-61d9784763e0___RS_HL 0043.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/097b050a-eaa4-4e4a-a30a-b72d1a4c0cc4___Crnl_L.Mold 8682.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/eba54644-386d-4358-88c7-ea6201fe630c___RS_HL 2165.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/df5eb1ff-9261-45ab-ae3f-bf942cdf1a72___RS_LB 2947.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Potato___healthy/a8d687be-3777-403f-bae7-5c8c19340b3f___RS_HL 1738.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/37d5791e-19e8-4095-a1cd-36aede6d0802___RS_Early.B 7172.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/069996a8-8cdb-4837-a5fe-c5a957b5677a___JR_HL 3938.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/f03abd0a-dc87-48b8-974f-dd27f534c06c___MD_Powd.M 0228.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/4435bd64-52a2-46cf-a319-a13a28571b03___GHLB2 Leaf 157.2.JPG,Tomato___Late_blight,30
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/afce5bf3-7e62-42f1-8d66-3d9b3e5e0dc1___NREC_B.Spot 9108.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/bce3ba0b-a142-4b28-8cb3-eb6bb6a3b8a2___FREC_Scab 3142.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/811b2953-8508-4327-944e-8d999211790c___FREC_C.Rust 3891.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 1949.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/3889a459-3e30-4345-83e1-57c68b32af30___RS_Erly.B 7638.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/d136bdeb-bb79-4cd5-96ec-b786df555175___CREC_HLB 7694.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Potato___healthy/46b2555a-c0a6-48c2-af13-0816e147e4de___RS_HL 1943.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/5f312356-04d0-44d0-ba06-4e3c33907b03___FREC_Scab 3349.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/4f12205c-0035-48ed-b6b0-56f347fe2ab0___RS_Late.B 5085.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/7e02bc12-a026-4aff-88b1-78dcd0a97fa1___RS_HL 1889.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2551.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/e549aa4b-ab3b-44c4-8fa8-8e317a55c1a2___MD_Powd.M 0146.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/f582a1b2-636d-4a0e-a113-5dcfb5c2d7e8___GHLB2 Leaf 9098.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/54260e42-8e3f-44c2-b252-c784391ce639___RS_Early.B 7508.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/f8ba145b-6a5a-43f1-b03b-3acb90f5483b___UF.GRC_YLCV_Lab 02697.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/376e68b6-818c-4ed5-97d2-ec9b0ac55bff___NREC_B.Spot 9102.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/4c4d4d68-41f7-42b6-85f9-cb648235490b___RS_HL 4028.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/65d70d57-0ba6-4ccb-a5ab-a21a6ac54ec4___Com.G_TgS_FL 0668.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/b4b43ac8-f6d6-4ece-8a7b-0991927992b8___FAM_B.Msls 1077.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/b49d2b41-bdb3-436c-9114-c55922d923a7___RS_HL 3166.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/d0aa3b59-046b-490d-a333-8049b87d5db9___RS_NLB 4147 copy.jpg,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/fe987eff-1e59-4958-94f3-5e98046fa349___RS_L.Scorch 1415.JPG,Strawberry___Leaf_scorch,26
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/3d5f977b-126e-4c4b-b6c2-5d81a69cf2d0___JR_B.Spot 3220.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/35a13782-2469-4805-8199-cb322c2cca4e___UF.Citrus_HLB_Lab 0122.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/ca2d4db1-7716-4007-a5d9-fc6d23655c2b___FAM_B.Rot 5051.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/1826cec0-4c4e-4924-a992-e70eb2a0097e___Crnl_L.Mold 6638.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/6799a92a-334c-4147-bc38-267abda01076___JR_HL 9441.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/8bd55b06-6ef9-44eb-94c3-99e679e6021b___UF.GRC_YLCV_Lab 02659.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Potato___healthy/2e0b8b4b-e900-408b-b760-730690bbd382___RS_HL 1901.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/0648ab1f-53de-4c70-9854-10f0794cb30c___Matt.S_CG 7480.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/68f0e459-0938-4988-862f-893afb413d57___JR_HL 4268.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/5112f2dc-2115-47f7-9f08-45e8bf55416f___Com.G_SpM_FL 8457.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/d2a1f0d8-2835-4984-80fd-11be9e18ab22___RS_GLSp 4580.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/d35a873e-fa01-4c28-9140-f46a37ef1e59___FAM_B.Msls 0895.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/dc2e47b9-4c1e-42de-be39-3ebca2fa356d___RS_HL 1699.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/ecacf5db-abcf-408c-b41a-93e339fbfc0c___RS_Late.B 6405.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/fac15e1c-0f8e-4467-8bdb-9494e8bb431e___RS_L.Scorch 9915.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Grape___healthy/b25497ff-4272-43e3-8ead-71b57c676529___Mt.N.V_HL 9087.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/4cb457d8-e493-414a-967a-f2b8ac0d3758___Com.G_TgS_FL 1093.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/000ec6ea-9063-4c33-8abe-d58ca8a88878___PSU_CG 2169.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/32652b13-825d-4f14-9429-d7d5042061cf___JR_FrgE.S 8758.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/2a4cbd85-e831-4ec4-8acf-49cea51eeb5f___JR_FrgE.S 2900.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/e5d4ffee-90c7-4a04-8fa8-61e496dfefc3___RS_GLSp 4367.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/caf5fa98-1dd1-44a8-8ce1-35fff6e06818___GCREC_Bact.Sp 5783.JPG,Tomato___Bacterial_spot,28
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/dd84d6d6-9bd9-4abe-b838-076c4af45b37___JR_B.Spot 8882.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2761.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/cff04564-1693-49ef-b5c0-6bbe4ff92d6b___RS_NLB 3475.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/9ae59070-5406-477c-b806-028e83e60cb0___R.S_HL 8234 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/554b79b3-81fb-4647-969e-14315d684d62___JR_HL 4276.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/c661bd24-6fcf-4802-9010-68ef6e2e7fa8___Crnl_L.Mold 6644.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/51fa1144-94aa-4cb3-9656-da49c37fa59b___FAM_B.Msls 4119.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/790cfb1d-4926-46bb-bd50-b750e823c72a___Crnl_L.Mold 7130.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Potato___healthy/9d7d1bb9-1b10-4a8f-a961-e404b9d5acf8___RS_HL 1960.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/1675b5c5-4f27-47b4-8088-1387b0eb437d___R.S_HL 8095 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/8970b98a-13dc-4293-8795-33436cef05e7___RS_NLB 3559.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/d564ec62-6533-4d66-98d6-f60f097d8f6c___RS_HL 4824.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/08029ccc-387e-4be6-9389-04f7b82fdb2a___RS_Early.B 9130.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/fd530597-32df-4d80-bae0-4af7a8ebcb92___RS_HL 4771.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/a6387ef1-52bc-4596-a3a4-e0b8c3c46708___GCREC_Bact.Sp 6272.JPG,Tomato___Bacterial_spot,28
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/98f8fdef-3368-4261-a974-8bdb5103ff51___JR_HL 8065.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/1c42eae7-29c8-42fd-b05a-9b8255790f6f___RS_Early.B 7719.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Peach___healthy/c42a4633-d298-47ef-8a85-a68730516d00___Rutg._HL 3514.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/4d9645fa-c250-4224-b730-21710bf11596___Com.G_SpM_FL 8755.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/bab5a3c5-f5e1-448f-b130-5bdaa6a91c79___JR_HL 8188.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/f456169c-83b5-4fd6-8c0a-41f36fb23ac7___Crnl_L.Mold 6693.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/aacea726-d5bc-4764-92a9-afe05263a498___Crnl_L.Mold 7009.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/6c194f25-d1cb-48b1-908e-e6a66a0f6ed2___FREC_Pwd.M 5008.JPG,Cherry_(including_sour)___Powdery_mildew,5
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/2c8d77dd-0173-41d0-9e95-9e11092af9a8___JR_HL 8737.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/278866c6-f59a-4408-a6ae-261f6f519e25___Rutg._Bact.S 1374.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/c70df019-6020-47a8-9b69-891a4f4d707b___FAM_B.Rot 3571.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/9fa413c2-d724-4bc6-8aed-954a472cf228___RS_LB 4754.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/c969f446-4098-43f5-a1ad-71b90d1078f6___Crnl_L.Mold 6615.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2587.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/093efd97-3116-49c2-aa77-861d86957da6___RS_HL 5611 1.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/7fe8279e-ac07-4b37-823d-35c2d81e7d3c___FREC_Pwd.M 4478.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/46310a87-46c0-4541-8caa-13a12c81d1ed___Rutg._Bact.S 1112.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/434368e8-214e-4c1e-a1c1-aad66e7f069b___Com.G_SpM_FL 1570.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/7fc57b6c-2b51-481d-aaf2-97a935f8765d___Com.G_SpM_FL 1526.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Peach___healthy/91f847f3-3016-45a4-b8ac-4cf47cc40430___Rutg._HL 3700.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/20e9e887-1594-474b-9104-e312212f8c03___YLCV_NREC 2266.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/2e75a60a-af82-45cf-abe0-1d13d63dc6fa___RS_HL 2017.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/a08beb3c-6ec8-41f5-a8de-c2f578ce4085___YLCV_NREC 2653.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/1742dfdd-c687-46ff-b958-34194feb68e4___RS_Erly.B 7453.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/8c033a16-bdf6-46ee-ac3b-2d84a6940950___JR_FrgE.S 8614.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Grape___healthy/72cd93bf-63f6-476a-b3ae-43af2006c9f2___Mt.N.V_HL 6132.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/22b87710-2baf-40c8-b37c-9b753a542813___Mary_HL 9226.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/4219ce92-10d0-41d2-9716-70e0aa4dde46___UF.GRC_YLCV_Lab 03398.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/c5a2c1de-cd48-417c-ae48-0394fe2f39ae___R.S_HL 7883 copy 2.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/e0d2045f-215f-4aeb-be90-0859ce7c49cc___FREC_C.Rust 3613.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/2afecd32-d0a3-44d2-b7fb-daa25989701a___RS_NLB 3524.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/2d392a0e-ed85-49b7-ad6f-f778f9ca64fc___RS_HL 0482.JPG,Blueberry___healthy,4
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/34b6c910-b4aa-416b-a89d-98f63be5055c___NREC_B.Spot 9201.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/90ae800d-cade-43b3-b6a3-65e1ab8d6e28___MD_Powd.M 0239.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/f2b42380-d2e4-4335-8e49-43cef9e4d357___Crnl_L.Mold 7068.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/c1721601-4172-4785-8319-ee6d550d7363___FAM_B.Rot 0705.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/7c438709-cbee-4ece-96fb-b3264ed0a7f0___JR_HL 3942.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/0c3c9e71-d339-4201-a32a-7a28f0556258___RS_L.Scorch 0930.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Potato___healthy/5df30492-0b54-474d-8883-bba9474ca88f___RS_HL 1801.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/2f007361-24a3-4892-9610-1f59f5146732___Rutg._Bact.S 1706.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/a9ed3e3f-7c8c-4a0e-ae96-8bf55585a522___Crnl_L.Mold 7082.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Potato___healthy/b925ad3e-fc49-497d-a6eb-115f0de20800___RS_HL 4170.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/88b51f59-08ed-41fe-8402-69f0964f87fe___FREC_Scab 3299.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/80138b30-b2ed-4c81-831d-f98f99c46b19___Rut._Bact.S 1227.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/9bfadeb9-dc2c-45fb-b687-7ae6f3dcc906___UF.GRC_BS_Lab Leaf 8789.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/fb79c897-ed92-43c4-8b28-8bdbe951ff56___PSU_CG 2396.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/b236a918-7730-4fae-8eb7-bb7457f1c315___Com.G_SpM_FL 1331.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/4d56ef9d-bc69-489c-92de-d2fad01d762d___RS_LB 3890.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/c18a2d5a-4160-48de-8e9e-7ccc047aeddc___JR_FrgE.S 8805.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/914cd3f1-e98f-49b3-8223-0a55870362b0___PSU_CG 2259.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/8a92c94e-8128-4c39-9ead-eebf6f3fe74d___FAM_B.Rot 3205.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Peach___healthy/474fb785-a088-4f76-8874-d7a0893ebb64___Rutg._HL 2414.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Peach___healthy/c800df52-fa12-4662-9f93-c3bb476cf867___Rutg._HL 3658.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/463042b8-3b99-473c-b59e-756f6eaf4400___Mary_HL 9221.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/4e7faad5-4f3c-432a-8a71-bbe198aece77___RS_Early.B 7354.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/129b1c3a-4f7d-4c45-ae03-2a4c3eb17dd4___RS_Early.B 7413.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/54c5e426-34e0-4545-a562-b30e179c01e7___RS_NLB 0785.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/b8514357-a1cf-454c-b6c3-9873b8a1bab9___Com.G_TgS_FL 9903.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/3f730857-e87b-4de0-bcbb-fdf0314e2250___GH_HL Leaf 245.1.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Apple___healthy/923ac4fd-39d5-4387-9636-ddfed02bc62e___RS_HL 8039.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/f7438ce7-c12a-40df-83a1-1ab0cde13bb0___RS_LB 3847.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7b0308b0-8997-4318-b3e0-26c658f8dadf___RS_GLSp 7300.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/c766f8e1-b82e-4c73-a7db-7247bd24c897___FAM_L.Blight 1599.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/8243854c-24f1-49e5-b568-819ae3867a8c___RS_Late.B 7143.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Potato___healthy/61b8a692-91d8-40f5-a4a4-4d910875a638___RS_HL 1966.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/67f122a8-fb8f-4b8c-bd45-3cf11db238b8___FREC_Scab 3140.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/7d2ddc15-ef09-49e7-95c7-c94d99bfa511___FAM_B.Rot 0437.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Potato___healthy/57e262fc-e0ba-44db-a967-5ba6f1826e49___RS_HL 1897.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/a3ed2570-7749-432c-971b-56c684aac305___FAM_L.Blight 4579.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/12c9c98f-afc9-4c12-8a97-007e5a40712a___NREC_B.Spot 9053.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/53853659-7886-4d19-87a0-65318154b8e2___Crnl_L.Mold 8865.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/a99fa7cf-65b5-4f42-a29d-47c4e2cb9f0f___Rut._Bact.S 0917.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/2767e072-0e76-4860-abc3-769fb4af3aae___PSU_CG 2257.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/33da87e2-f2c6-4a99-bc3c-279f47120681___JR_Sept.L.S 2667.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/a2b0cc07-c314-4b21-9c67-4f479fe973e8___RS_HL 5115.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/4361805d-f37f-41e3-8341-a2a76fb22bc4___UF.GRC_YLCV_Lab 01385.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/22742bf8-7e7f-41cc-bf74-5fe80d6cf0cd___RS_Erly.B 6370.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/56debe8d-12b9-49fa-a691-bca659691ff2___MD_Powd.M 0414.JPG,Squash___Powdery_mildew,25
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/1aaaa11e-ec45-4d6d-ab7f-1d3ea053d14d___JR_HL 5937.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/6923c419-55d4-4f33-91aa-9ecfb860d72d___JR_FrgE.S 8763.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/d7fb4740-9707-484f-9809-b7efa8f7851d___FREC_C.Rust 4344.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/5535ef29-cb2d-4a0d-a16c-d0c2ed296b3a___Matt.S_CG 0766.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Apple___healthy/88aad30d-4d2e-461f-847f-a4d2e9caf035___RS_HL 7967.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/2fa22081-5533-4b18-9a8f-671f210db37e___PSU_CG 2092.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/265e6c18-6d4c-4ea7-8677-da5d2ffe94ee___Rut._Bact.S 0860.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/b044fcc0-9215-42c8-beac-4e67b1e7eee0___RS_NLB 3523.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/b845075b-dbb8-4b69-bec2-36e99cee7f3c___FREC_C.Rust 4038.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Peach___healthy/19baaa3d-d7ee-4806-a3a8-fa8164252be0___Rutg._HL 3635.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/c03d1596-7911-42f1-bbf3-3f3c052b3e76___PSU_CG 2223.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/a1b6a479-3698-4370-a7b1-a43ca44eb027___Mary_HL 6223.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/06eb73c0-225e-447b-ac67-08be159a73b7___FAM_B.Msls 1225.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Peach___healthy/904ebe05-0fb1-42b5-a4d7-1ba4f10687fc___Rutg._HL 3648.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/1bb4d1d5-ca06-49b6-8f89-ed0d6c1d68af___JR_FrgE.S 8777.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/3f4e1b10-ff06-4ea4-b6ac-dd77d40cecc5___RS_HL 7054.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/7d9ba686-3d31-41d2-a078-588d1bcf3aee___R.S_HL 5555 copy 2.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/30ad861e-dbf8-4431-a300-b701693faf9a___FAM_L.Blight 0789.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/a61b7704-49d4-4754-99d6-d5ee98c9be31___UF.Citrus_HLB_Lab 0648.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Apple___healthy/f2e86675-cb7b-4d8a-9400-9b844ccc3f9e___RS_HL 7323.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/61db52ae-d868-4ba0-bac0-b2c9dc539cd8___RS_HL 0140.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/a5f27f47-9b56-4c1c-941a-12e2525496cb___JR_HL 9771.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/0c7b9ac5-8174-4dbe-9cc3-043b920ec276___RS_HL 2290.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/a13d28b1-7cdf-4d10-bd16-e01cefbe9e0e___Com.G_TgS_FL 9779.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/f848dd07-4247-4135-a442-91dde43ae49c___Keller.St_CG 2022.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/c2f56696-c7ab-4107-aa33-8d4ddcef1757___Com.G_TgS_FL 8152.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/f0bbc28f-b6d6-4db3-b924-984a1e988510___FREC_Scab 3204.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Potato___healthy/3f369e63-81eb-4194-a145-df9ed91abc5d___RS_HL 1745.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Potato___healthy/20ac28d6-5708-4e31-8676-1b1979de094f___RS_HL 1735.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/3f9ae1a9-4667-4bf6-ad26-66e81939122b___MD_Powd.M 0643.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/6ae9566d-3180-429e-a8a1-08c201048d0f___Crnl_L.Mold 6605.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/9e979a65-61bf-4d07-a444-7c22ae1a58b1___RS_LB 4886.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/21d0e467-fe38-46f5-939a-7855aaa57856___Mary_HL 9193.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a7659e27-ba53-4b85-a0dd-6a1009703831___RS_GLSp 4619.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/11e6ce0a-8511-485a-b22c-21b978d28e5e___JR_B.Spot 3383.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/1ce9343f-125e-4abb-9cd4-fddf761504da___JR_FrgE.S 3096.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/9eaff91a-1260-4d17-844d-65ab1ee09752___JR_FrgE.S 2736.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/6ac37504-499f-44d0-a85d-e6712264fa4c___CREC_HLB 7316.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/3b234433-9b25-4e29-b2d4-65b9f1b38d6f___RS_L.Scorch 1307.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/a3d07302-420d-4b4e-94f2-6694ef9d2088___RS_Erly.B 7652.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/3ac5e3ba-b071-47da-b76b-992e4c3e8bea___FAM_B.Msls 4369.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Grape___healthy/7664a68e-5bf7-4ca4-988d-12d9360bb512___Mt.N.V_HL 9095.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/9032d569-294e-4b8b-a70f-ecff949e43e2___RS_LB 3998.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/f8c850bb-1c2e-4340-8f00-bda707afcfa6___RS_GLSp 4451.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/f84a91cc-ad11-409e-9115-1af741e5726d___RS_Late.B 5166.JPG,Tomato___Late_blight,30
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/976a6621-9c5a-4c7b-a045-fdceff04d081___JR_B.Spot 3108.JPG","Pepper,_bell___Bacterial_spot",18
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/f0e93256-3b10-43c9-880e-e041de89502c___JR_HL 5846.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Peach___healthy/9b46117f-ba00-490d-8af4-3878524300f7___Rutg._HL 3590.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/edfdddce-aafd-4bd6-ae30-a5b1816828d7___Rut._Bact.S 1444.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/7a2ec9b8-0f56-48e7-b31d-214e8ceca667___FAM_L.Blight 4564.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/6c230d35-6763-4d95-a766-e64a2d165d70___RS_L.Scorch 1465.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/261f74c4-437a-49a1-8039-a04f6ee6e986___FREC_Pwd.M 4819.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/9b321fb6-a6d5-4bb8-81f5-db0b136fdacd___UF.GRC_YLCV_Lab 09416.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Apple___healthy/d454a4da-a867-45f8-962e-465946df58c9___RS_HL 5876.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/adfdba4a-a725-4c5b-8b1c-96e8b20baa7b___FREC_Scab 3265.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/7afa9b87-872b-4675-88d0-e36ad6cc017d___YLCV_GCREC 2864.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/28463ffb-8023-41c0-9084-6b5ade2d6ca3___RS_GLSp 4310.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/1838f883-5e4b-4b24-bf4b-77d4a82f5f46___GCREC_Bact.Sp 6335.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/27e2013d-3a3d-447c-b4c6-92ca1d3ed03d___JR_HL 9891.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/e40a1e10-fca8-4831-b124-48bc07f92eb1___RS_LB 2897.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/0f47e5f6-7271-45c8-8364-e962dedd83c9___PSU_CG 2148.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2005.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/9ca7d203-7b7c-4f5c-911f-fc225f3c5b77___RS_Early.B 7557.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/eea5ee8e-b2a8-4116-94e4-63e573b1e63b___JR_HL 4264.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/503c6a57-2af3-48ed-b96f-e2cbf6fb5dd1___PSU_CG 2263.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/e82e3fd9-cc3c-4196-9bef-178576b882de___RS_Late.B 6316.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/27eae93a-d090-4c95-9812-366f9b761b72___Com.G_SpM_FL 9279.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/b149634c-506a-4039-96f5-67ab8e97bb0e___Mary_HL 9340.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2626.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/98226f66-15a1-40d5-9b62-04ae5b4fd8d5___Mary_HL 9159.JPG,Raspberry___healthy,23
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/a3b07765-0a85-4d9e-937d-c5464c30d0d8___JR_HL 8535.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/54a8fdaa-3cd0-413c-bf83-299806f20623___FAM_B.Rot 5072.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/08a25478-76ed-4e4c-8ad0-bc7322f050b0___GCREC_Bact.Sp 3028.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/a7a4d12c-61bf-401d-ab88-0572c4dec56d___RS_Erly.B 9464.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/216989d3-2721-4c2d-b279-763d393d8c03___R.S_HL 7879 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/b0699256-127b-48cc-9587-0b1f3013e2a2___RS_HL 3483.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/deed458f-ec5b-46c7-9658-c005cf90fc11___RS_Erly.B 7480.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/4aa754cc-c896-44de-a528-62f66cfcbe12___RS_NLB 3956.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/1ec8d580-f7b5-481f-85af-f2370a29a330___GCREC_Bact.Sp 5620.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/256051f1-8e69-4f2b-b4d5-400fccb18623___GCREC_Bact.Sp 3313.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/422802e1-cee5-43b7-b735-7f90b5e5d4e2___RS_Erly.B 7349.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/0baabe1e-b188-4c55-8f61-0f484f90c73b___FAM_B.Rot 3532.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/7b729ecb-5dce-4b92-afa0-4dce3ae45b10___UF.GRC_BS_Lab Leaf 0340.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/c7e3a7d4-9eb4-4014-8353-c5a1d85621b3___RS_GLSp 9287.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/361f06a6-6dbc-4ea0-b954-c3a1e6b9b481___RS_NLB 3653.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/c65795f0-a809-4611-b32b-a23e1461f07a___UF.Citrus_HLB_Lab 1057.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/e225eb60-d018-4014-a4f5-eadd0aad06ef___GH_HL Leaf 438.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/6c96f05e-d43d-4715-b634-df8dbc32c6d7___RS_HL 2125.JPG,Strawberry___healthy,27
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/eecaf451-abc4-4079-b612-f6a15d95ca6e___JR_B.Spot 3398.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/239adb5e-2a7f-431b-98ff-61cd0da22d7d___RS_HL 4147.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/36bc7257-0b59-45a9-a692-1ff35b5a3425___RS_L.Scorch 1409.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/bf476d8a-b172-4c95-8ac6-d4b494d9003f___RS_HL 3606.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/eabad3b4-d648-485d-af19-3741fa60c884___MD_Powd.M 0425.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/8d6e2d0b-672d-4737-8973-17a9f31517a8___Crnl_L.Mold 7070.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/c5e5b1aa-d7b6-4eb0-804a-67f83d486250___Rutg._Bact.S 1656.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 1734.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/27c2aaa4-de4b-4fb1-ba8d-14d4b24b2afa___RS_HL 4665.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/f2c19695-4d63-40ac-ad0e-c451e83c1435___FAM_L.Blight 4657.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/7334e742-de72-4561-9b0d-cdd8bc3313e7___GCREC_Bact.Sp 3066.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/7aa7c8ec-af11-4a66-a1c6-6376a9758486___FAM_L.Blight 0777.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/377ffc94-d068-4ba0-80cc-dea49edf094d___RS_HL 0367.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/f37f0878-31f2-402b-81c6-dd1af6e15899___RS_Late.B 5222.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/91866d08-cbe2-4a9a-87fd-f2b969e5340a___RS_Erly.B 9588.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/7f5d5f91-c05f-4e6b-8b5e-2b8d3fee0f0e___UMD_Powd.M 0242.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/2722ea3c-1bfb-463b-afc1-f8a2f26bd714___CREC_HLB 5637.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/f32a71f9-5468-4169-aa2f-e895f070bfc7___RS_HL 9997.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Apple___healthy/3c1fd0db-4090-485a-9d59-4293714b482c___RS_HL 7581.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/56cc0223-46b0-44d3-ba43-66d3def44f1d___FREC_C.Rust 3834.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/40495312-f2d5-4819-98a7-93b689c44ef6___CREC_HLB 3925.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/77b39248-46fa-4dab-8f37-7f68d37d377b___UMD_Powd.M 9719.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/6881c9a5-04b2-41c3-b29f-1ca04bd73967___PSU_CG 2390.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/e3cebc3c-1b1d-4482-a987-e275d5c58294___RS_HL 5281.JPG,Soybean___healthy,24
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/28b0cad6-b695-4e4b-9cd1-27f2e43647e7___JR_B.Spot 9071.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/441ebe97-fbc5-4c18-9043-35571c410cb5___RS_HL 6541.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/3ecbb7b8-ad66-4944-886e-de2ae2c2c35e___PSU_CG 2095.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/b253ecf6-eaf2-41a6-8e05-5e52948ba59b___FAM_B.Rot 3494.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/9e5aab8b-acca-4647-9dba-e4c8c7f13ad7___RS_HL 4682.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/37240ad5-3437-49e3-85e0-aec8750e2c39___RS_HL 2064.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/a3bfb6c7-1f1e-407a-a2cf-40b316896185___FREC_C.Rust 9819.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/9fcc3c88-5083-43a8-a65e-3ac55558ca1d___JR_HL 9633.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/77630213-eb1b-4da4-b9a8-372cfadbecf7___UMD_Powd.M 0278.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/974bc246-0ab0-4a54-95c8-dd0b557f676b___Crnl_L.Mold 7059.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Potato___healthy/170f1f57-0fd4-421f-9c82-3b1804be63ad___RS_HL 1771.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Peach___healthy/04c2f170-d421-473e-9131-c4aaa681a9d2___Rutg._HL 3724.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/7fc9f1bc-6fe9-4248-af53-22b41f756ca1___Com.G_SpM_FL 9586.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/c8cbb528-e68c-4aac-89fa-3e0eee1b9f24___JR_HL 4147.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Apple___healthy/bfbfd624-ea18-4469-8038-4c90e4369209___RS_HL 7628.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/b712d3c4-fd19-4785-9282-4690a358de70___FREC_Pwd.M 4970.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Apple___healthy/d321145e-6ab0-4ad2-8109-f34ee4389149___RS_HL 7848.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/a82fdb01-97e5-43e7-b848-faf6318494ea___RS_HL 7420.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Peach___healthy/293d1635-ff8f-4005-b057-1a539ad2cf0d___Rutg._HL 2474.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/4d7f4b74-59f6-431e-afa3-6fbbb9ac90ea___FREC_C.Rust 0145.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/2a64ed5f-6be9-463b-894f-e2953da0a974___RS_Erly.B 7520.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/38998d1b-6ec4-42db-be4c-7e2d53616159___FAM_B.Rot 3359.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2143.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Peach___healthy/f97eaae1-7349-45e6-8002-411a34cb2f8f___Rutg._HL 3586.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/0a01cc10-3892-4311-9c48-0ac6ab3c7c43___RS_GLSp 9352.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/535f0fec-14f2-4222-a44a-1e4f52d2ab0c___FREC_Pwd.M 0259.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/71119c61-edcb-4e12-93ca-4e10ab0c42c7___FAM_L.Blight 1562.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/b574ad16-1c07-4f70-bf1d-e2314d2dd81f___RS_LB 2849.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/57f2c193-3ead-4e94-aa19-2d0224cac669___YLCV_GCREC 5265.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/f23cfb59-4e9d-43b0-820a-99d9cc624c04___RS_HL 4618.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/a6562ee2-b37b-4734-9bf4-75da24f34bd1___JR_HL 4153.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/ebd47dca-590b-43c4-812d-32f95b776690___RS_LB 3834.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/73c69b7e-604a-4014-a42d-ce4205b35c74___RS_Late.B 5131.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/12c28bfa-a576-4787-8d4e-a500ac446766___RS_HL 0526.JPG,Tomato___healthy,37
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2048.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/3921410d-ac79-4220-9ea2-bcd118cbf807___UF.Citrus_HLB_Lab 0568.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/0f575c94-5c7d-4058-9e65-9046572f9370___GHLB2 Leaf 8956.JPG,Tomato___Late_blight,30
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/36601aca-8bb5-4a68-91a5-4d11641250e0___JR_HL 8419.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/21df0e97-08e0-4380-aace-2909068a13d7___YLCV_GCREC 2703.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/87458990-3ac3-4cc8-bee6-d4135cb92086___FREC_Pwd.M 0561.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/4bac1537-cc33-460d-901c-70eb70db38a0___Com.G_SpM_FL 9021.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/379b93ea-da9c-48c6-aca9-b285d39aad3d___RS_HL 5339.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Apple___healthy/817ae6f2-7f72-457f-889a-6cddeaf0945e___RS_HL 7674.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/face42b2-4593-47f6-8eb8-67e2c09e4224___RS_HL 5516.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/1e503089-ae6a-4340-8c3c-f44cbaa6cf6f___RS_Erly.B 8264.JPG,Tomato___Early_blight,29
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/02baf62e-11e2-4dde-97fb-e369b57d55d3___JR_B.Spot 8971.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/3046afbf-4a9a-41fb-a64f-3f9e75af08e7___Com.G_SpM_FL 1623.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Grape___healthy/69a50f71-f8ee-4280-ac3e-c1d68e950c2e___Mt.N.V_HL 6165.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/1cfc6e73-1d86-4fb9-bffb-010163531711___FREC_C.Rust 3944.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/b49ac002-7dfe-44c4-8041-c4564b77420c___Com.G_TgS_FL 8366.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/c7707d46-6667-44ae-bb3c-fc7b2b8bb76c___RS_GLSp 7298.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/aaa5e2ef-23d0-444e-9bc6-95f09fe94eab___RS_L.Scorch 1470.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/28d9f1bd-ee80-46e1-b89c-5a855f0c8400___RS_Erly.B 7818.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a23ba9aa-4f37-4d07-b4ef-396fcaf6514d___RS_GLSp 4553.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/388bbf02-8689-4a87-8fac-ec29b6e9268e___Matt.S_CG 6504.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/5b7d7af1-b710-4d56-ac06-e4c413321f9c___Com.G_SpM_FL 1557.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/f416a057-5518-4df4-8c12-660cd636166c___FREC_C.Rust 4412.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/67310f37-d48e-4a4f-ab4b-39035a584646___Com.G_SpM_FL 8660.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Grape___healthy/d5fe4316-44da-4fd9-a608-75908ad76862___Mt.N.V_HL 6143.JPG,Grape___healthy,14
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/fe4f28b2-dbcc-438f-88cf-e94e17a37ac4___Com.G_TgS_FL 0900.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/7fdeb60a-15db-4759-858a-e1118bad583a___Mary_HL 9194.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/4feaacb9-a17f-4b39-85d5-85e5fb9997a3___RS_NLB 3575.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Potato___healthy/1106c3fc-92cb-41a6-a6c6-8f08b9b45108___RS_HL 1914.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/c5a734cc-e387-4a6a-b63c-b760f03b89a7___MD_Powd.M 9991.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/ff2a06ae-9fc1-4436-bfcd-346a18dd5bfb___FREC_Pwd.M 4840.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/c8e6d9ba-8ccc-4e6e-a4da-0442ea34b05f___FAM_B.Msls 1190.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/8d8730db-4a12-4324-8218-47a86ea6b44e___Matt.S_CG 7708.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/5d4e82f2-d720-45fa-b913-13773583ee0f___FREC_C.Rust 4181.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2631.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/46cfd121-d2e7-4a26-9c6f-5787457d200c___JR_FrgE.S 8669.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 1620.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/f54e11db-832e-42a0-a872-54f315b72814___Com.G_TgS_FL 9747.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/4e40c113-4ab2-4a71-9ecc-5ceb67905190___RS_Early.B 7446.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/0a1319ef-0cbb-4fcc-8126-9c18813f3bac___JR_HL 4012.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/937045bf-b8e0-4bc1-b630-34b683a23cda___R.S_HL 5554 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/4b969e28-98d7-48a3-80b6-6bd99c866f77___Mary_HL 9174.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/52f9209f-48d2-4d2b-8c3a-fe03d217d581___Com.G_SpM_FL 8934.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Tomato___Spider_mites Two-spotted_spider_mite/1e06dafa-f977-4354-992e-3271f34a2344___Com.G_SpM_FL 9601.JPG,Tomato___Spider_mites Two-spotted_spider_mite,33
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/b11482db-2932-4ede-85eb-a42340d847dc___Rut._Bact.S 1366.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Strawberry___healthy/7cec5131-85c7-498f-87e3-63e4fa847094___RS_HL 1834.JPG,Strawberry___healthy,27
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/6c4ba807-3b6f-4041-bc17-c268b52bc05f___FREC_Pwd.M 4623.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/77219bfa-b44d-449d-a7bc-3f27d26ffd6a___Crnl_L.Mold 6545.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/57ddfd04-04ec-4921-ac39-568877cec650___RS_HL 5396.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/c5e23efb-7f78-47c4-8de8-a00d5a925af1___RS_NLB 3626.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Apple___healthy/720d9250-e209-42bd-8be8-c3ee3e2a057f___RS_HL 5869.JPG,Apple___healthy,3
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/0bbf4db7-38a1-4d5c-8fd7-503e9f37ef8f___Matt.S_CG 7848.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/8e471027-aaa7-4a8a-aba0-217ca766f297___RS_L.Scorch 0084.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/5d398d0d-256d-4de5-8dcd-f3b455da2b76___FREC_Scab 3522.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/f84594dc-1a42-4044-b2b1-a0d867e4738b___Rut._Bact.S 1193.JPG,Peach___Bacterial_spot,16
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/ff27ffcd-921c-4b13-827a-ddbb311ea50c___JR_HL 8246.JPG","Pepper,_bell___healthy",19
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/4a18013a-dcd1-4974-b841-89c49b198a11___NREC_B.Spot 1984.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/91d2b551-c853-41b2-80b5-f982f6c30553___GCREC_Bact.Sp 2983.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/7966ec90-1939-40ea-a4f7-99aca4fe8af5___FREC_Scab 3402.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/e4a1bfbf-22a0-4455-98e2-a1bd0a243a94___RS_NLB 3975.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/b8199a66-9ef5-498c-b55d-9a05d67433a5___FREC_Scab 2920.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/e6234865-528b-44e1-a6c6-383b25750fce___MD_Powd.M 9979.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/0d6d5e13-9a91-4390-b460-6e8fc4039ccc___FAM_L.Blight 1419.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/1733ec78-998c-4af9-81b3-d2ad994710ef___RS_L.Scorch 1528.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/aaac1cf2-e773-4bbd-84ed-da23df25fe03___R.S_HL 8287 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/2370fa79-6f15-4ae5-a3cb-2d585a0043c2___PSU_CG 2178.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Potato___healthy/5e19b1f4-fd65-4c4d-bcd2-18c8c519eddb___RS_HL 1965.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Peach___healthy/474e5f3b-b421-4f14-90b6-7b09cfca524f___Rutg._HL 2448.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/1f97d75c-db85-4344-8687-82ca56454d17___FREC_Scab 3408.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/de50dc75-3433-4735-b7a1-75471b8ff195___RS_HL 5295.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Apple___Cedar_apple_rust/85eb91f6-f8f0-438e-afbc-ca12551ee404___FREC_C.Rust 9884.JPG,Apple___Cedar_apple_rust,2
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/b029df2d-8ca4-40e4-98d3-72432599d4a2___Matt.S_CG 6306.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/e71c667a-19c0-45c4-91db-6dd38f946dce___R.S_HL 8058 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Tomato___healthy/1006c73b-19f8-4771-9fe5-3fc4908e8da3___RS_HL 0557.JPG,Tomato___healthy,37
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/6a457821-e634-425c-90f0-a4bbd76b5722___JR_B.Spot 3159.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/d66bf6da-1199-4f2b-9776-8cbc4529b268___FREC_Scab 3157.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/63ec8c33-368c-433d-8953-f28f30e5985f___RS_LB 2943.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/aec94baf-a0e8-43af-80af-4bab46d84ad8___RS_LB 5100.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/ed966f7f-71e9-4dc2-9689-32654a609956___RS_NLB 4046 copy.jpg,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Potato___Late_blight/d66ee513-26cc-4676-8aeb-9902e0969d2b___RS_LB 3999.JPG,Potato___Late_blight,21
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/09cd441a-847a-4c80-87c3-28056f88244c___RS_HL 2486.JPG,Blueberry___healthy,4
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/7fddbc3d-a9aa-4fb8-8dd6-321891a00c75___JR_HL 5969.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/a0689cc8-7329-4c38-bc16-5432089d7728___YLCV_GCREC 1912.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/5e8d554a-6374-4d36-b389-a56cae97a9d7___FAM_B.Rot 3144.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/55477ea0-03ae-4ddd-afa5-01b0a640533d___FREC_Pwd.M 0304.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Squash___Powdery_mildew/df32f242-36d1-4b24-b021-8bb31e25c879___MD_Powd.M 0896.JPG,Squash___Powdery_mildew,25
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/398d72f7-db26-4138-9364-eb506f9495f4___RS_Erly.B 9450.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 2429.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/be66b1b1-97d9-497c-b50b-58902e4a2a74___Rut._Bact.S 1452.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/4d53f660-e6ef-47b0-8f12-24a6f7e5ddbb___FREC_Pwd.M 0523.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/648dd675-b63d-44ea-897a-c57736deb447___RS_HL 5267.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/0f80ca6d-b0a3-4c59-bf37-f89bc3eea6ce___R.S_HL 8018 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/2c9a1c22-8603-4181-aa14-78ff3b683380___FREC_Pwd.M 5113.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/db1f571b-c607-41b4-a629-4b71e07dc6be___FAM_B.Msls 1242.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Peach___Bacterial_spot/0cc304f5-ae98-499a-a670-e00d0c3c9a7a___Rutg._Bact.S 1967.JPG,Peach___Bacterial_spot,16
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/c5c7b4c7-fe95-48d1-80a2-6238faf36faf___RS_HL 5402.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/aed39453-1ff0-44b9-90e8-7cabf883340e___JR_FrgE.S 2873.JPG,Apple___Black_rot,1
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/5d17a185-67fe-465f-81b9-35d936f24f99___JR_B.Spot 3181.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/1dfd4db7-a456-4785-bf16-f517bcaf54e8___JR_FrgE.S 3089.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Apple___Apple_scab/bdaae6b2-8ff5-4a4c-9286-a2393063cdaf___FREC_Scab 3491.JPG,Apple___Apple_scab,0
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/2290365c-ec97-46fb-bc6c-51395d458821___GCREC_Bact.Sp 5937.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/970e073d-a091-4be9-9a3a-42374ecfe7c8___Crnl_L.Mold 8627.JPG,Tomato___Leaf_Mold,31
+data/PlantVillage-Dataset/raw/color/Potato___healthy/d227e4c8-e203-4aa4-b813-25b96baa2869___RS_HL 1831.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/2850266c-aca2-4114-807f-a5b90ad012e5___GHLB Leaf 9 Day 6.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/acf5e6b0-636f-4b99-b6a2-61184d33b2b0___UF.Citrus_HLB_Lab 1149.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Tomato___Leaf_Mold/81ae49b5-40e6-41ac-add6-470a7b108f5b___Crnl_L.Mold 8794.JPG,Tomato___Leaf_Mold,31
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/0915c9a9-25b0-4728-be01-86e5cecb57df___NREC_B.Spot 1816.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/928b2917-6b5b-4752-859f-61d6ca57f976___GHLB2 Leaf 9070.JPG,Tomato___Late_blight,30
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/91388c88-ea82-4ae3-a4b3-4b9832e86837___FAM_B.Msls 0920.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/fdf3c33c-dad6-4f13-bd58-a31d327d9cb9___RS_Early.B 8947.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/6cc6804c-7b02-42a5-86ae-92add86eb89d___JR_FrgE.S 2825.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Apple___healthy/b776b468-ee06-4871-98da-3998ead30369___RS_HL 7438.JPG,Apple___healthy,3
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/d13cfcd6-79ac-48c9-9e88-931982463214___NREC_B.Spot 1895.JPG","Pepper,_bell___Bacterial_spot",18
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_mosaic_virus/e8900c28-b9e9-41d4-b8f6-5c4be8db1296___PSU_CG 2352.JPG,Tomato___Tomato_mosaic_virus,36
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/1be23894-5bb2-4e82-9e65-216fe9a33c3b___RS_L.Scorch 0077.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/be618514-250f-4cea-817c-b0ec422a834e___RS_HL 5801.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/0de65785-c601-41dc-8099-83c73cac21c2___FAM_B.Msls 4094.JPG,Grape___Esca_(Black_Measles),12
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/5f8ceca0-9d35-48cf-847a-c5d39a198321___JR_HL 8297.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/74316ef6-7cce-4ed9-8fbf-9bf42d14657c___RS_Early.B 7352.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/c9611299-771d-4f9e-831c-cf1194f48ef2___RS_NLB 4148.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/795dcd8d-4c41-4b8d-a096-500f9e28c8cc___Mary_HL 9260.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/b76a19d9-8059-4b55-9a0f-e5f8f2cfb3cb___Com.G_TgS_FL 9964.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Potato___Early_blight/93c6b48d-cde9-4e8b-bbfb-1a9c06234419___RS_Early.B 7000.JPG,Potato___Early_blight,20
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/9283430c-730c-4436-a57a-b49471817fd5___Com.G_TgS_FL 9941.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/de63da6c-abd4-4b95-b61f-866592529963___UF.GRC_YLCV_Lab 02570.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,35
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/edd8fa98-a7a1-46c4-81a1-798e5ea6670e___Mary_HL 9217.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/c5eec324-acc7-477a-984f-ae9b8b1636df___CREC_HLB 4519.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/11dcda6d-bfdf-457d-8fad-ad169be1501e___R.S_HL 8199 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/4d88d7a6-b49c-4927-81de-60b6b807c839___RS_Erly.B 7655.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Strawberry___Leaf_scorch/115b843f-5c32-48dd-9602-b8fa5a3c7b29___RS_L.Scorch 9986.JPG,Strawberry___Leaf_scorch,26
+data/PlantVillage-Dataset/raw/color/Grape___Black_rot/a04ef5e3-e968-442b-92f9-289052a7604d___FAM_B.Rot 0653.JPG,Grape___Black_rot,11
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Common_rust_/RS_Rust 1634.JPG,Corn_(maize)___Common_rust_,8
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/c3ea49c4-d133-49cd-82df-e347d7bb0c24___Matt.S_CG 1141.JPG,Tomato___Septoria_leaf_spot,32
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/4a98a740-26d6-412e-bd44-1936c506906a___R.S_HL 8273 copy.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/6873f362-d13b-41f7-a44d-da51875e46f1___RS_Erly.B 9436.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/922416fb-0c08-4edd-894b-bbea0ba183f3___GCREC_Bact.Sp 5900.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/80114b85-eb92-46f3-bf88-5befec2a72a5___R.S_HL 8181 copy 2.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Orange___Haunglongbing_(Citrus_greening)/01d81d30-e85c-4b59-a849-240f3533b06e___CREC_HLB 4237.JPG,Orange___Haunglongbing_(Citrus_greening),15
+data/PlantVillage-Dataset/raw/color/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/f59890f3-cd03-43ed-a89a-8baa3587b7d9___FAM_L.Blight 0805.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),13
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/85a1cefe-dfd8-4f9a-b852-da2aba419be7___GCREC_Bact.Sp 5658.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Tomato___Early_blight/932fabe0-247e-4e51-92d3-cd824fc6bc5d___RS_Erly.B 9540.JPG,Tomato___Early_blight,29
+data/PlantVillage-Dataset/raw/color/Peach___healthy/7d49c146-62a9-4b83-855a-b29b2ccbf8e1___Rutg._HL 3587.JPG,Peach___healthy,17
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___healthy/a8395e57-8398-4306-bc22-a33efbb19c65___JR_HL 9439.JPG,Cherry_(including_sour)___healthy,6
+data/PlantVillage-Dataset/raw/color/Raspberry___healthy/07ae07d1-118d-48a9-ad13-ff5856b6ad25___Mary_HL 6393.JPG,Raspberry___healthy,23
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___healthy/5bed19a9-9318-4160-926f-c2c641995c1e___R.S_HL 8167 copy 2.jpg,Corn_(maize)___healthy,10
+data/PlantVillage-Dataset/raw/color/Tomato___Target_Spot/d1a9ea23-47c5-49ee-98e6-1e6b76fca991___Com.G_TgS_FL 9952.JPG,Tomato___Target_Spot,34
+data/PlantVillage-Dataset/raw/color/Potato___healthy/163ada72-4288-4f85-a3c1-feed23c8d1de___RS_HL 1940.JPG,Potato___healthy,22
+data/PlantVillage-Dataset/raw/color/Apple___Black_rot/c8269293-ae8c-4ac0-8eb3-6574683f1b2e___JR_FrgE.S 8699.JPG,Apple___Black_rot,1
+data/PlantVillage-Dataset/raw/color/Tomato___Bacterial_spot/1dbd6b67-25f1-444e-81d8-cbb54213cbb4___GCREC_Bact.Sp 3528.JPG,Tomato___Bacterial_spot,28
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Northern_Leaf_Blight/a4feb7a4-f0e0-4e95-8756-a50e893a0436___RS_NLB 4103.JPG,Corn_(maize)___Northern_Leaf_Blight,9
+data/PlantVillage-Dataset/raw/color/Soybean___healthy/6aecad2f-ab1d-4d44-b95d-b8fcac69a6dc___RS_HL 6201.JPG,Soybean___healthy,24
+data/PlantVillage-Dataset/raw/color/Cherry_(including_sour)___Powdery_mildew/b3aa0d92-9de0-4889-b95d-124b035c05a2___FREC_Pwd.M 4675.JPG,Cherry_(including_sour)___Powdery_mildew,5
+data/PlantVillage-Dataset/raw/color/Blueberry___healthy/3822a36a-55b7-4c2a-84b7-70cc7cba846e___RS_HL 5375.JPG,Blueberry___healthy,4
+data/PlantVillage-Dataset/raw/color/Tomato___Late_blight/21a4f74f-08cb-44b8-9e40-3ff5a9c8a9da___GHLB Leaf 8.2 Day 7.JPG,Tomato___Late_blight,30
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___healthy/a0e415ac-6532-4648-ac52-3cb0c8c544ed___JR_HL 8071.JPG","Pepper,_bell___healthy",19
+data/PlantVillage-Dataset/raw/color/Grape___Esca_(Black_Measles)/09282a81-6cb1-4140-b6a3-6ea517ee31f9___FAM_B.Msls 3928.JPG,Grape___Esca_(Black_Measles),12
+data/PlantVillage-Dataset/raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/afef777a-61bd-43c8-9159-44e4309b9322___RS_GLSp 7311.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,7
+data/PlantVillage-Dataset/raw/color/Tomato___Septoria_leaf_spot/c2c33819-8bcc-479b-8ee0-2b2858165764___Matt.S_CG 6345.JPG,Tomato___Septoria_leaf_spot,32
+"data/PlantVillage-Dataset/raw/color/Pepper,_bell___Bacterial_spot/06d752a4-d4a5-439e-b374-231a2cc64032___NREC_B.Spot 1868.JPG","Pepper,_bell___Bacterial_spot",18
